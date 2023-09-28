@@ -13,7 +13,6 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
     "parcel": "^2.9.3",
-    "parcel-bundler": "^1.12.5",
     "sharp": "^0.31.3"
   }
 }
